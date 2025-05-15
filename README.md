@@ -1,4 +1,4 @@
-# 🐳 DockerDecameron
+# 🐳 Docker Prueba Tecnica
 
 Este proyecto es una solución full-stack desarrollada con **Laravel 9** en el backend y **React + Vite** en el frontend, empaquetado con **Docker y Docker Compose** para facilitar el desarrollo y despliegue.
 
